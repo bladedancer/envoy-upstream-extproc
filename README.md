@@ -1,6 +1,6 @@
-# External Processing Demo
+# IP checking
 
-Simple Envoy ext_proc to test slow ext processing.
+Testing upstream IPs to ensure they're safe.
 
 ## Features
 
